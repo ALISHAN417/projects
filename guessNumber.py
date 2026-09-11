@@ -16,5 +16,5 @@ while True:
     else:
         print("your number was too big. Take a smaller guess..")
         
-    print("---GAME OVER 7777---")
+    print("---GAME OVER 1234---")
     
